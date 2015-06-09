@@ -1,5 +1,7 @@
 # XD-tool
 
+[![Join the chat at https://gitter.im/XD-embedded/xd-tool](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/XD-embedded/xd-tool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 XD-tool is the front-end tool for the XD-embedded project.
 
 It provides basic XD-embedded manifest commands, and support for plugin of
